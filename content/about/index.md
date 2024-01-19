@@ -5,7 +5,7 @@ menu: "main"
 weight: 4
 ---
 
-{{< figure src="avatar.jpg" link="/avatar.jpg" class="aspect-square" >}}
+{{< figure src="avatar.jpg" link="avatar.jpg" class="aspect-square" >}}
 
 Hi there! 
 
