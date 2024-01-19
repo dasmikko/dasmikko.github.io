@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Bear Cub</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Bear Cub</description>
+    <title>Tags on rekna.xyz</title>
+    <link>https://rekna.xyz/tags/</link>
+    <description>Recent content in Tags on rekna.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <managingEditor>me@example.com (John Doe)</managingEditor>
-    <webMaster>me@example.com (John Doe)</webMaster>
+    <managingEditor>dasmikko@gmail.com (Mikkel Jensen)</managingEditor>
+    <webMaster>dasmikko@gmail.com (Mikkel Jensen)</webMaster>
     <copyright>John Doe (CC BY 4.0)</copyright>
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rekna.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

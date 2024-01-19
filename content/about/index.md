@@ -1,9 +1,11 @@
 ---
 layout: page
 title: About
+menu: "main"
+weight: 4
 ---
 
-![Avatar](/assets/avatar.jpg){:.aspect-square}
+{{< figure src="avatar.jpg" link="/avatar.jpg" class="aspect-square" >}}
 
 Hi there! 
 

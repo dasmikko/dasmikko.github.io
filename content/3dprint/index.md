@@ -8,9 +8,11 @@ Alright, so one of my main hobbies is 3D printing. It's such an amazing tool to 
 
 You can so quickly whip something together in a CAD software, and sit with it in your hands in a short time later. The fact you can print stuff other people have made, is amazing too.
 
-## My Gear
+## What are you using?
 
-I'm currently sporting a **Creality CR-6 SE**, with a couple of upgrades.
+I'm currently sporting a **Creality CR-6 SE**, with a couple of upgrades. 
+
+I think it's a fairly decent printer. It gets the job done, especially after the firmware upgrade. I have had some issues with the stock glass bed, but I have since upgraded to a PEI bed, which is amazing.
 
 ### Upgrades 🔧
 Here is a list of upgrades i've done to my printer.
@@ -18,12 +20,12 @@ Here is a list of upgrades i've done to my printer.
 #### Dual gear extruder
 This should allow me to more easily use softer filaments like TPU. It's also makes it a more stable extuder.
 
-{{< figure src="extruder.jpg" class="aspect-video" style="aspect: 16 / 9" >}}
+{{< figure src="extruder.jpg" link="extruder.jpg" class="aspect-video" style="aspect: 16 / 9" >}}
 
 #### PEI bed plate
 I have ditched the old stock glass bed, which I had a ton of adhesion issues with. Now I use a nice powder coated PEI plate, that is mounted magnetically, and is flexiable. Which also makes the print adhere better, and very easy to remove when cooled off.
 
-{{< figure src="bed.jpg" class="aspect-video" >}}
+{{< figure src="bed.jpg" link="bed.jpg" class="aspect-video" >}}
 
 #### Capricon bowden tube
 This is just a better PTFE bowden tube from Capricon
@@ -31,7 +33,7 @@ This is just a better PTFE bowden tube from Capricon
 #### PrimaCreator Ruby nozzle 0.4mm
 This nozzle should allow me to print with various abbrasive filaments, without nozzle weardown.
 
-{{< figure src="nozzle.jpg" class="aspect-video" >}}
+{{< figure src="nozzle.jpg" link="nozzle.jpg" class="aspect-video" >}}
 
 
 #### Custom firmware (Community firmware)

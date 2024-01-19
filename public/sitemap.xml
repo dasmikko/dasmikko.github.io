@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://example.com/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://example.com/pt/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://rekna.xyz/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rekna.xyz/3dprint/</loc>
+  </url><url>
+    <loc>https://rekna.xyz/blog/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rekna.xyz/blog/inital-commit/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rekna.xyz/license/</loc>
+  </url><url>
+    <loc>https://rekna.xyz/about/</loc>
+  </url><url>
+    <loc>https://rekna.xyz/categories/</loc>
+  </url><url>
+    <loc>https://rekna.xyz/knocky/</loc>
+  </url><url>
+    <loc>https://rekna.xyz/tags/</loc>
+  </url>
+</urlset>
