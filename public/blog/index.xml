@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on rekna - My little place on the internet</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on rekna - My little place on the internet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>dasmikko@gmail.com (Mikkel Jensen)</managingEditor>
+    <webMaster>dasmikko@gmail.com (Mikkel Jensen)</webMaster>
+    <copyright>John Doe (CC BY 4.0)</copyright>
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spool roller upgrade (attempt)</title>
+      <link>http://localhost:1313/blog/spool-roller/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/blog/spool-roller/</guid>
+      <description>&lt;p&gt;Ok, so I wanted to improve the stock spool holder on my Creality CR-6 SE. It&amp;rsquo;s just bit of plastic that you put the spool on, and it adds a lot of friction when printing. It does the job, but it could be better.&lt;/p&gt;&#xA;&lt;p&gt;I found this spool roller on &lt;a href=&#34;https://www.thingiverse.com/thing:4740713&#34;&gt;Thingiverse&lt;/a&gt;, and decided to print it. It&amp;rsquo;s a simple design, but sadly it didn&amp;rsquo;t seem to work as I wanted.&lt;/p&gt;&#xA;&lt;figure class=&#34;aspect-video&#34;&gt;&lt;a href=&#34;parts-on-bed.jpg&#34;&gt;&lt;img src=&#34;parts-on-bed.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;</description>
+      <content:encoded><![CDATA[<p>Ok, so I wanted to improve the stock spool holder on my Creality CR-6 SE. It&rsquo;s just bit of plastic that you put the spool on, and it adds a lot of friction when printing. It does the job, but it could be better.</p>
+<p>I found this spool roller on <a href="https://www.thingiverse.com/thing:4740713">Thingiverse</a>, and decided to print it. It&rsquo;s a simple design, but sadly it didn&rsquo;t seem to work as I wanted.</p>
+<figure class="aspect-video"><a href="parts-on-bed.jpg"><img src="parts-on-bed.jpg"></a>
+</figure>
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Initial commit</title>
+      <link>http://localhost:1313/blog/inital-commit/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/blog/inital-commit/</guid>
+      <description>&lt;p&gt;Well&amp;hellip; Welcome to my little corner of the internet! I will try to post about random project about web development, 3D printing, console modding and everything in between!&lt;/p&gt;&#xA;&lt;p&gt;So come visit in the future!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Well&hellip; Welcome to my little corner of the internet! I will try to post about random project about web development, 3D printing, console modding and everything in between!</p>
+<p>So come visit in the future!</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,23 +1,111 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bear Cub</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Bear Cub</description>
+    <title>rekna - My little place on the internet</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on rekna - My little place on the internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <managingEditor>me@example.com (John Doe)</managingEditor>
-    <webMaster>me@example.com (John Doe)</webMaster>
+    <managingEditor>dasmikko@gmail.com (Mikkel Jensen)</managingEditor>
+    <webMaster>dasmikko@gmail.com (Mikkel Jensen)</webMaster>
     <copyright>John Doe (CC BY 4.0)</copyright>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Printing</title>
+      <link>http://localhost:1313/3dprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/3dprint/</guid>
+      <description>&lt;p&gt;Alright, so one of my main hobbies is 3D printing. It&amp;rsquo;s such an amazing tool to have in your arsenal as a creator, tinkerer or creative artist.&lt;/p&gt;&#xA;&lt;p&gt;You can so quickly whip something together in a CAD software, and sit with it in your hands in a short time later. The fact you can print stuff other people have made, is amazing too.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-are-you-using&#34;&gt;What are you using?&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently sporting a &lt;strong&gt;Creality CR-6 SE&lt;/strong&gt;, with a couple of upgrades.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Alright, so one of my main hobbies is 3D printing. It&rsquo;s such an amazing tool to have in your arsenal as a creator, tinkerer or creative artist.</p>
+<p>You can so quickly whip something together in a CAD software, and sit with it in your hands in a short time later. The fact you can print stuff other people have made, is amazing too.</p>
+<h2 id="what-are-you-using">What are you using?</h2>
+<p>I&rsquo;m currently sporting a <strong>Creality CR-6 SE</strong>, with a couple of upgrades.</p>
+<p>I think it&rsquo;s a fairly decent printer. It gets the job done, especially after the firmware upgrade. I have had some issues with the stock glass bed, but I have since upgraded to a PEI bed, which is amazing.</p>
+<h3 id="upgrades-">Upgrades 🔧</h3>
+<p>Here is a list of upgrades i&rsquo;ve done to my printer.</p>
+<h4 id="dual-gear-extruder">Dual gear extruder</h4>
+<p>This should allow me to more easily use softer filaments like TPU. It&rsquo;s also makes it a more stable extuder.</p>
+<figure class="aspect-video"><a href="extruder.jpg"><img src="/3dprint/extruder.jpg"></a>
+</figure>
+
+<h4 id="pei-bed-plate">PEI bed plate</h4>
+<p>I have ditched the old stock glass bed, which I had a ton of adhesion issues with. Now I use a nice powder coated PEI plate, that is mounted magnetically, and is flexiable. Which also makes the print adhere better, and very easy to remove when cooled off.</p>
+<figure class="aspect-video"><a href="bed.jpg"><img src="/3dprint/bed.jpg"></a>
+</figure>
+
+<h4 id="capricon-bowden-tube">Capricon bowden tube</h4>
+<p>This is just a better PTFE bowden tube from Capricon</p>
+<h4 id="primacreator-ruby-nozzle-04mm">PrimaCreator Ruby nozzle 0.4mm</h4>
+<p>This nozzle should allow me to print with various abbrasive filaments, without nozzle weardown.</p>
+<figure class="aspect-video"><a href="nozzle.jpg"><img src="/3dprint/nozzle.jpg"></a>
+</figure>
+
+<h4 id="custom-firmware-community-firmware">Custom firmware (Community firmware)</h4>
+<p>I have flashed the better community firmware, that adds a bunch of new features.</p>
+<h3 id="future-upgrades">Future upgrades</h3>
+<p>I&rsquo;m planning on upgrading the Hotend to the MicroSwiss all metal hotend, which should help with potentional heat creep issues.</p>
+<p>Currently my printer is inside my house, but I&rsquo;m planning to move it to my shed, so I can print at night, and not have to worry about the noise.</p>
+<p>I will blog about it, so stay tuned!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;figure class=&#34;aspect-square&#34;&gt;&lt;a href=&#34;avatar.jpg&#34;&gt;&lt;img src=&#34;http://localhost:1313/about/avatar.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Hi there!&lt;/p&gt;&#xA;&lt;p&gt;My name is Mikkel (also known as rekNa), and this my little corner of the internet.&lt;/p&gt;&#xA;&lt;p&gt;I like to spend my spare time on random tech projects, such as web/app development, keyboard stuff or console modding (but not limited to!).&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<figure class="aspect-square"><a href="avatar.jpg"><img src="/about/avatar.jpg"></a>
+</figure>
+
+<p>Hi there!</p>
+<p>My name is Mikkel (also known as rekNa), and this my little corner of the internet.</p>
+<p>I like to spend my spare time on random tech projects, such as web/app development, keyboard stuff or console modding (but not limited to!).</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Spool roller upgrade (attempt)</title>
+      <link>http://localhost:1313/blog/spool-roller/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/blog/spool-roller/</guid>
+      <description>&lt;p&gt;Ok, so I wanted to improve the stock spool holder on my Creality CR-6 SE. It&amp;rsquo;s just bit of plastic that you put the spool on, and it adds a lot of friction when printing. It does the job, but it could be better.&lt;/p&gt;&#xA;&lt;p&gt;I found this spool roller on &lt;a href=&#34;https://www.thingiverse.com/thing:4740713&#34;&gt;Thingiverse&lt;/a&gt;, and decided to print it. It&amp;rsquo;s a simple design, but sadly it didn&amp;rsquo;t seem to work as I wanted.&lt;/p&gt;&#xA;&lt;figure class=&#34;aspect-video&#34;&gt;&lt;a href=&#34;parts-on-bed.jpg&#34;&gt;&lt;img src=&#34;parts-on-bed.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;</description>
+      <content:encoded><![CDATA[<p>Ok, so I wanted to improve the stock spool holder on my Creality CR-6 SE. It&rsquo;s just bit of plastic that you put the spool on, and it adds a lot of friction when printing. It does the job, but it could be better.</p>
+<p>I found this spool roller on <a href="https://www.thingiverse.com/thing:4740713">Thingiverse</a>, and decided to print it. It&rsquo;s a simple design, but sadly it didn&rsquo;t seem to work as I wanted.</p>
+<figure class="aspect-video"><a href="parts-on-bed.jpg"><img src="parts-on-bed.jpg"></a>
+</figure>
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Initial commit</title>
+      <link>http://localhost:1313/blog/inital-commit/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/blog/inital-commit/</guid>
+      <description>&lt;p&gt;Well&amp;hellip; Welcome to my little corner of the internet! I will try to post about random project about web development, 3D printing, console modding and everything in between!&lt;/p&gt;&#xA;&lt;p&gt;So come visit in the future!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Well&hellip; Welcome to my little corner of the internet! I will try to post about random project about web development, 3D printing, console modding and everything in between!</p>
+<p>So come visit in the future!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title></title>
-      <link>https://example.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
-      <guid>https://example.com/</guid>
-      <description>Hello! Hello, world!</description>
-      <content:encoded><![CDATA[<h1 id="hello">Hello!</h1>
-<p>Hello, world!</p>
+      <link>http://localhost:1313/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/license/</guid>
+      <description>&lt;h1 id=&#34;released-under-mit-license&#34;&gt;Released under MIT License&lt;/h1&gt;&#xA;&lt;p&gt;Copyright (c) 2014 Mark Otto.&lt;/p&gt;&#xA;&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="released-under-mit-license">Released under MIT License</h1>
+<p>Copyright (c) 2014 Mark Otto.</p>
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &ldquo;Software&rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+<p>THE SOFTWARE IS PROVIDED &ldquo;AS IS&rdquo;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Knocky privacy policy</title>
+      <link>http://localhost:1313/knocky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/knocky/</guid>
+      <description>&lt;p&gt;Knocky does not collect any data, and never will.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Knocky does not collect any data, and never will.</p>
 ]]></content:encoded>
     </item>
   </channel>

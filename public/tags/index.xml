@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on rekna.xyz</title>
-    <link>https://rekna.xyz/tags/</link>
-    <description>Recent content in Tags on rekna.xyz</description>
+    <title>Tags on rekna - My little place on the internet</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on rekna - My little place on the internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>dasmikko@gmail.com (Mikkel Jensen)</managingEditor>
     <webMaster>dasmikko@gmail.com (Mikkel Jensen)</webMaster>
     <copyright>John Doe (CC BY 4.0)</copyright>
-    <atom:link href="https://rekna.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3d Printing</title>
+      <link>http://localhost:1313/tags/3d-printing/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/tags/3d-printing/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
   </channel>
 </rss>

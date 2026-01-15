@@ -23,7 +23,7 @@ enableRobotsTXT = true
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = "rekna.xyz"
+    title = "rekna - My little place on the internet"
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"
