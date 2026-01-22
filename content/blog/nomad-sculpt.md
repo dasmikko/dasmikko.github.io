@@ -19,7 +19,7 @@ I was super lucky that there was an amazing deal on a Samsung Galaxy Tab S10+, w
 
 It's all pretty overwhelming right now, as I'm struggling to figure out what to sculpt. I ended up making a small sitting toy bear, and I'm actually pretty happy with my first sculpt.
 
-{{< figure src="/images/Bear.png" link="Bear.jpg" class="aspect-video" >}}
+{{< figure src="/images/Bear.png" link="/images/Bear.png" class="aspect-video" >}}
 
 Can't wait to doodle more, and will try to post updates.
 
