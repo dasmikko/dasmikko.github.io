@@ -9,7 +9,7 @@
     <managingEditor>dasmikko@gmail.com (Mikkel Jensen)</managingEditor>
     <webMaster>dasmikko@gmail.com (Mikkel Jensen)</webMaster>
     <copyright>John Doe (CC BY 4.0)</copyright>
-    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D Printing</title>
@@ -64,14 +64,31 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>Learning 3D sculpting</title>
+      <link>http://localhost:1313/blog/nomad-sculpt/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/blog/nomad-sculpt/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been 3D printing for a couple of years now, and can relatively easily create various practical things in Plasticity 3D.&#xA;While this is awesome, and it&amp;rsquo;s great to be able to create stuff to repair or solve an issue I&amp;rsquo;m having with something, I&amp;rsquo;ve been craving to create more creative stuff.&lt;/p&gt;&#xA;&lt;p&gt;I have pretty much binge-watched a tonne of Nomad Sculpt videos, and see other people create these amazing things, which sparked a thing in my brain.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I&rsquo;ve been 3D printing for a couple of years now, and can relatively easily create various practical things in Plasticity 3D.
+While this is awesome, and it&rsquo;s great to be able to create stuff to repair or solve an issue I&rsquo;m having with something, I&rsquo;ve been craving to create more creative stuff.</p>
+<p>I have pretty much binge-watched a tonne of Nomad Sculpt videos, and see other people create these amazing things, which sparked a thing in my brain.</p>
+<p>I was super lucky that there was an amazing deal on a Samsung Galaxy Tab S10+, which sealed the deal. I bought it, and bought Nomad Sculpt.</p>
+<p>It&rsquo;s all pretty overwhelming right now, as I&rsquo;m struggling to figure out what to sculpt. I ended up making a small sitting toy bear, and I&rsquo;m actually pretty happy with my first sculpt.</p>
+<figure class="aspect-video"><a href="Bear.jpg"><img src="/images/Bear.png"></a>
+</figure>
+
+<p>Can&rsquo;t wait to doodle more, and will try to post updates.</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Spool roller upgrade (attempt)</title>
       <link>http://localhost:1313/blog/spool-roller/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
       <guid>http://localhost:1313/blog/spool-roller/</guid>
-      <description>&lt;p&gt;Ok, so I wanted to improve the stock spool holder on my Creality CR-6 SE. It&amp;rsquo;s just bit of plastic that you put the spool on, and it adds a lot of friction when printing. It does the job, but it could be better.&lt;/p&gt;&#xA;&lt;p&gt;I found this spool roller on &lt;a href=&#34;https://www.thingiverse.com/thing:4740713&#34;&gt;Thingiverse&lt;/a&gt;, and decided to print it. It&amp;rsquo;s a simple design, but sadly it didn&amp;rsquo;t seem to work as I wanted.&lt;/p&gt;&#xA;&lt;figure class=&#34;aspect-video&#34;&gt;&lt;a href=&#34;parts-on-bed.jpg&#34;&gt;&lt;img src=&#34;parts-on-bed.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;</description>
+      <description>&lt;p&gt;Ok, so I wanted to improve the stock spool holder on my Creality CR-6 SE. It&amp;rsquo;s just bit of plastic that you put the spool on, and it adds a lot of friction when printing. It does the job, but it could be better.&lt;/p&gt;&#xA;&lt;p&gt;I found this spool roller on &lt;a href=&#34;https://www.thingiverse.com/thing:4740713&#34;&gt;Thingiverse&lt;/a&gt;, and decided to print it. It&amp;rsquo;s a simple design, but sadly it didn&amp;rsquo;t seem to work as I wanted.&lt;/p&gt;&#xA;&lt;figure class=&#34;aspect-video&#34;&gt;&lt;a href=&#34;parts-on-bed.jpg&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/parts-on-bed.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;</description>
       <content:encoded><![CDATA[<p>Ok, so I wanted to improve the stock spool holder on my Creality CR-6 SE. It&rsquo;s just bit of plastic that you put the spool on, and it adds a lot of friction when printing. It does the job, but it could be better.</p>
 <p>I found this spool roller on <a href="https://www.thingiverse.com/thing:4740713">Thingiverse</a>, and decided to print it. It&rsquo;s a simple design, but sadly it didn&rsquo;t seem to work as I wanted.</p>
-<figure class="aspect-video"><a href="parts-on-bed.jpg"><img src="parts-on-bed.jpg"></a>
+<figure class="aspect-video"><a href="parts-on-bed.jpg"><img src="/images/parts-on-bed.jpg"></a>
 </figure>
 
 ]]></content:encoded>

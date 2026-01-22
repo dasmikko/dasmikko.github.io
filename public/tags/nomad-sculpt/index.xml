@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nomad Sculpt on rekna - My little place on the internet</title>
+    <link>http://localhost:1313/tags/nomad-sculpt/</link>
+    <description>Recent content in Nomad Sculpt on rekna - My little place on the internet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>dasmikko@gmail.com (Mikkel Jensen)</managingEditor>
+    <webMaster>dasmikko@gmail.com (Mikkel Jensen)</webMaster>
+    <copyright>John Doe (CC BY 4.0)</copyright>
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nomad-sculpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning 3D sculpting</title>
+      <link>http://localhost:1313/blog/nomad-sculpt/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/blog/nomad-sculpt/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been 3D printing for a couple of years now, and can with relative ease create various practical things in Plasticity 3D.&#xA;While this is awesome, and it&amp;rsquo;s great to be able to create stuff to repair or solve an issue I&amp;rsquo;m having with something. I&amp;rsquo;ve been craving creating more creative stuff.&lt;/p&gt;&#xA;&lt;p&gt;I have pretty much binged watched a tonne of Nomad Sculpt videos, and see other create these amazing things, which sparked a thing in my brain.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I&rsquo;ve been 3D printing for a couple of years now, and can with relative ease create various practical things in Plasticity 3D.
+While this is awesome, and it&rsquo;s great to be able to create stuff to repair or solve an issue I&rsquo;m having with something. I&rsquo;ve been craving creating more creative stuff.</p>
+<p>I have pretty much binged watched a tonne of Nomad Sculpt videos, and see other create these amazing things, which sparked a thing in my brain.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

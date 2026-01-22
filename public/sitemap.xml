@@ -3,22 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/3dprint/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/3d-printing/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/spool-roller/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/3d-sculpting/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/nomad-sculpt/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nomad-sculpt/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/spool-roller/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/inital-commit/</loc>

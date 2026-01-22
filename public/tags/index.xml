@@ -9,13 +9,29 @@
     <managingEditor>dasmikko@gmail.com (Mikkel Jensen)</managingEditor>
     <webMaster>dasmikko@gmail.com (Mikkel Jensen)</webMaster>
     <copyright>John Doe (CC BY 4.0)</copyright>
-    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3d Printing</title>
       <link>http://localhost:1313/tags/3d-printing/</link>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
       <guid>http://localhost:1313/tags/3d-printing/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>3d Sculpting</title>
+      <link>http://localhost:1313/tags/3d-sculpting/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/tags/3d-sculpting/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Nomad Sculpt</title>
+      <link>http://localhost:1313/tags/nomad-sculpt/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><author>dasmikko@gmail.com (Mikkel Jensen)</author>
+      <guid>http://localhost:1313/tags/nomad-sculpt/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
